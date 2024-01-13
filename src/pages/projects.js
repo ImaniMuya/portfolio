@@ -5,7 +5,7 @@ import { flushSync } from "react-dom";
 const projectList = [
   {
     id: 1,
-    imgSrc: "/deeswebsite.png",
+    imgSrc: "/backstudio.png",
     href: "https://back-studio-stomp-git-dev-edricy.vercel.app/",
     title: "Back Studio Stomp",
     description: (

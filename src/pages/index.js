@@ -88,7 +88,7 @@ export default function Home({ setHeaderStep }) {
             className="hover:scale-105 transition shadow-lg h-full"
           >
             <Image
-              src="/deeswebsite.png"
+              src="/backstudio.png"
               width={640}
               height={480}
               alt="back studio stomp website"
