@@ -121,7 +121,7 @@ const projectList = [
   {
     id: 6,
     imgSrc: "/yellow-wood.png",
-    href: "https://cse.taylor.edu/~imuya/yellow-wood/",
+    href: "https://github.com/ImaniMuya/the-yellow-wood",
     title: "The Yellow Wood",
     description: (
       <>
@@ -131,8 +131,8 @@ const projectList = [
           route of Robert Frost's the Road Not Taken.
         </p>
         <p>
-          <a href="https://cse.taylor.edu/~imuya/yellow-wood/" target="_blank">
-            Play the Yellow Wood here!
+          <a href="https://github.com/ImaniMuya/the-yellow-wood" target="_blank">
+            Visit the Yellow Wood repo!
           </a>
         </p>
       </>
