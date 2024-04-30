@@ -5,9 +5,9 @@ import { flushSync } from "react-dom";
 const projectList = [
   {
     id: 1,
-    imgSrc: "/backstudio.png",
-    href: "https://back-studio-stomp-git-dev-edricy.vercel.app/",
-    title: "Back Studio Stomp",
+    imgSrc: "/tlh.png",
+    href: "https://www.trianglelindyhop.com/",
+    title: "Triangle Lindy Hop",
     description: (
       <>
         <p>
@@ -18,7 +18,7 @@ const projectList = [
         </p>
         <p>
           <a
-            href="https://back-studio-stomp-git-dev-edricy.vercel.app/"
+            href="https://www.trianglelindyhop.com/"
             target="_blank"
           >
             Visit the site!

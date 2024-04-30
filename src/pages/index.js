@@ -84,14 +84,14 @@ export default function Home({ setHeaderStep }) {
             />
           </Link>
           <Link
-            href={"https://back-studio-stomp-git-dev-edricy.vercel.app/"}
+            href={"https://www.trianglelindyhop.com/"}
             className="hover:scale-105 transition shadow-lg h-full"
           >
             <Image
-              src="/backstudio.png"
+              src="/tlh.png"
               width={640}
               height={480}
-              alt="back studio stomp website"
+              alt="triangle lindy hop website"
               className="object-cover h-full"
             />
           </Link>
@@ -104,7 +104,7 @@ export default function Home({ setHeaderStep }) {
               width={640}
               height={471}
               quality={100}
-              alt="back studio stomp website"
+              alt="david joe website"
               className="object-cover h-full"
             />
           </Link>
